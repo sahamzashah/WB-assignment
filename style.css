@@ -1,0 +1,364 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+.header-icons{
+    background-color: #316dc3;
+    width: 1400px;
+    height: 38px;
+    padding: 5px 0px;
+}
+
+.millions{
+    font-family: sans-serif;
+    color: white;
+    position: absolute;
+    top: 25px;
+    left: 500px; 
+}
+.icons{
+    position: absolute;
+    top: 24px;
+    left: 150px;
+    
+}
+.icons img{
+    width: 20px;
+    height: 20px;
+    margin: 0px 15px 0px 0px;
+    
+}
+.top-btn{
+    margin-left: 1100px;
+    position: absolute;
+    top: 24px;
+}
+.top-btn a{
+    background: white;
+    padding: 7px 14px;
+    font-size: 11px;
+    color: green;
+    text-decoration-line: none;
+    margin: 0px 10px 0px 0px;
+}
+.header-nav{
+    background-color:white;
+    width: 1170px;
+    height: 70px;
+    margin: 0px 0px 0px 115px;
+}
+
+.logo{
+    width: 191.5px;
+    height: 52px;
+    margin: 15px 0px 0px 5px;
+    
+}
+.navbar li a{ 
+    padding: 8px 16px;
+    color: #333333;
+    font-size: 13px;
+    text-decoration: none;
+
+}
+.navbar li{
+    display: inline;
+    background: white;       
+}
+ul{
+    float: right;
+    margin: 30px 0px 0px 0px;
+}
+ul li a:hover{
+    color: white;
+    background-color: #316dc3;
+    border-radius: 30px;
+    transition: 0.6s;
+}
+ul li.active a{
+    color: white;
+    background-color: #316dc3;
+    border-radius: 30px;
+    
+}
+/* .blood{
+ width: 1400px;
+       height: 750px;
+  */
+
+.im{
+    width: 1400px;
+    height: 500px;
+}
+
+
+ .row{
+    background-color: #316dc3;
+    width: 1170px;
+    height: 40px;
+    margin-left: 114px ;
+}
+p{
+    padding: 12px 0px 0px 5px;
+    color: white;
+}
+.section2{
+    background-color: #f7f8fa;
+    margin: 50px 0px 0px 0px;
+    padding: 50px 200px 50px 200px ;
+
+}
+.formation1{
+    text-align: justify;
+    line-height: 1.6;
+    color: gray;
+    font-size: 16px;
+}
+.intro{
+    padding: 0px 0px 0px 373px;
+    
+}
+.cont2{
+    width: 292px;
+    height: 153px;
+    padding: 60px 0px ;
+    display: inline-block;
+
+
+}
+h2{
+    font-family: 'Merriweather';
+    color: white;
+    font-size: 48px;
+    line-height: 0px;
+    text-align: center;
+
+}
+h5{
+    font-family: 'Merriweather';
+    color: white;
+    font-size: 14px;
+    text-align: center;
+
+}
+.mark1{
+    color: #00ff00;
+    text-decoration: none;
+    font-size: 18px;
+}
+.section3{
+    background-color: #2655e8;
+    width: 1400px;
+    height: 313px;
+    padding: 0px 0px 0px 115px;
+    
+}
+.cont2 img{
+    width: 40px;
+    height: 40px;
+    padding: 10px 0px 0px 125px;
+}
+
+
+
+.section4{
+    background-color:#f7f8fa;
+    width: 1400px;
+    height: 643px;
+    padding: 0px 0px 0px 115px;
+}
+.cont3{
+    width: 320px;
+    height: 155px;
+    padding: 30px;
+    display: inline-block;
+    background-color: #ffffff;
+    margin: 30px 15px 0px 0px ;
+    box-shadow: 0px 1px 15px 0px rgba(128, 128, 128, 0.541);
+}  
+
+.cont3 img{
+    width: 70px;
+    height: 70px;
+    margin: 0px 0px 0px 120px;
+}
+
+.doing{
+    padding: 50px 0px 0px 373px;
+    display: block;
+}
+.cont3 h6{
+    text-decoration: none;
+    font-size: 20px;
+    color: #316dc3;
+    line-height: 0px;
+    text-align: center;
+    margin-top: 40px;    
+}
+.section5{
+    width: 1400px;
+    height: 400px;
+    padding: 0px 0px 0px 115px;
+}
+.cont4{
+    width: 800px;
+    background-color: white;
+    display: inline-block;
+}
+.cont4 h3{
+    color: #316dc3;
+    font-size: 25px;
+    display: table;
+
+}
+.cont5{
+    background-color: white;
+    padding: 5px;
+    width: 320px;
+    height: 70px;
+    display: inline-block;
+    margin: 5px;
+    box-shadow: 0px 1px 15px 0px rgba(128, 128, 128, 0.541);
+
+}
+.cont5 img{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    padding-right: 30PX;
+
+}
+.mark2{
+    font-size: 15;
+    color: #316dc3;
+    display: inline-block;
+       
+}
+.cont6{
+    display: inline-block;
+    width: 300px;
+    height: 350px;
+    position: absolute;
+    top: 2335px;
+    left: 920px;
+    
+     
+    
+}
+.upcoming{
+    font-size: 25px;
+    color: #316dc3;
+
+}
+.para{
+    color: grey;
+    font-size: 15px;
+    text-align: left;
+}
+.images{
+    width: 1400px;
+    height: 300px;
+}
+.img3{
+    height: 90px;
+    padding-left: 530px;
+    
+}
+.gallery10{
+    height: 250px;
+    width: 1400px;
+    padding-left: 90px;
+    
+}
+
+.gallery{
+    width: 226px;
+    height: 150px;
+    float: left;
+    padding: 2px;
+    margin: 0.5px;
+}
+.insta{
+    width: 30px;
+    height: 30px;
+}
+.para2{
+    color:white;
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+    /* font-family: 'Roboto', sans-serif; */
+   
+
+    
+}
+.para2 p{
+    display: inline;
+    position: relative;
+    top: 80px;
+    left: 120px;
+    
+    
+}
+.useful{
+    width: 350px;
+    height: 350px;
+    display: inline-block;
+    position: relative;
+    left: 40px;
+
+}
+.connect{
+    width: 350px;
+    height: 400px;
+    display: inline-block;
+    position: relative;
+    left: 50px;
+
+}
+
+.footer{
+    background-color: #25272e;
+    height: 400px;
+
+}
+.iconss{
+    position: relative;
+    top: 95px;
+    left: 96px;
+}
+.list{
+    list-style: none;
+    position: relative;
+    top: 80px;
+    right: 1px;  
+    line-height: 1.5em;
+   
+ } 
+.calss{
+    display: inline;
+    position: relative;
+    top: 305px;
+    left: 116px;
+    
+}
+.line{
+    position: absolute;
+    left: 130px;
+    bottom: 285px;
+
+}
+.copyright{
+   
+    height: 40px;
+    color: white;
+    background-color: #316dc3;
+    padding: 10px 0px 0px 128px ;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+
+
+
+
+
